@@ -68,5 +68,6 @@ return (
 
 ---
 
+[![Build status](https://ci.appveyor.com/api/projects/status/6dn01hs76hkgmt82/branch/main?svg=true)](https://ci.appveyor.com/project/NikitaKurys62983/ra-store-func/branch/main)
 
-[GH-Pages]()
+[GH-Pages](https://nikitakurys.github.io/ra-store-func/)
